@@ -1,0 +1,85 @@
+92 93 94 95 96 97 145 146 147 148 149 191 192 193 194 195 196 197 198 199
+Stair 1
+199 Level B
+191 Level C
+145 Level D
+92 Level E
+97 Level F
+
+151 152 153 154 155 200 201 202 203 204 205 206 207 217
+Stair 3
+200 Level B
+217 Level C
+155 Level D
+151 Level E
+
+157 158 159 160 161 162 208 209 210 211 212 213 214 215
+Stair 5
+214 Level B
+215 Level C
+157 Level D
+162 Level E
+
+181 182 183 184 185 186 187 189
+Stair 6
+187 Level B
+189 Level C
+181 Level D
+
+178 179 180 102 103 101 100 99 90 91 89 88 87 57
+Stair 2
+178 Level C
+103 Level D
+91 Level E
+57 Level G
+
+111 112 113 114 140 141 142 143
+Stair 4
+140 Level C
+111 Level D
+114 Level E
+
+11 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 75 80 106 137
+Stair 24
+20 Level A
+11 Level B
+137 Level C
+106 Level D
+75 Level E
+80 Level F
+48 Level G
+
+3 54 59 60 61 62 63 64 110 117 118 119 120 121 122 123 124 125 126 127 128 164 165 166 218 219 220 221
+Stair 25
+3 Level B
+128 Level C
+110 Level D
+117 Level E
+64 Level F
+54 Level G
+
+13 14 15 16 17 52 66 67 68 69 70 71 72 82 83 84 85 86 131 132 133 134 135 169 170 171 172 173 174 175 176
+Stair 23
+17 Level A
+13 Level B
+131 Level C
+173 Level D
+72 Level E
+66 Level F
+52 Level G
+
+115 15 116 78 117 76 64 92 79 114 90 116 91 163
+E&F Pillar Room
+117 Follow sign that says "E Offices 5303-5416"
+76 Follow sign that says "E Offices 5102-5231"
+64 Follow sign that says "F Offices 6306-6416"
+92 Follow sign that says "E 206-265"
+79 Follow sign that says "F Offices 6102-6233"
+114 Follow sign that says "E 278-202"
+90 Go to Stair 2
+
+97 87 57 58 55 56 54
+G Pillar Room
+54 Follow sign that says "G 7125-7416"
+97 Follow sign that says "F Offices 310-366"
+87 Go to Stair 2
